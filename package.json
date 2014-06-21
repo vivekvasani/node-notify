@@ -1,6 +1,6 @@
 {
   "name": "node-notify",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Node port of Eloy Durán's terminal-notifier [https://github.com/alloy/terminal-notifier]",
   "main": "./lib/main.js",
   "scripts": {
